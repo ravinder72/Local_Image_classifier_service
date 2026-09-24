@@ -1,0 +1,22 @@
+# Dataset - provided externally, don't commit
+be-mlsys-assignment-dataset/
+
+# Assignment PDF
+GalaxEye-Backend_Engineer_ML_Systems-TakeHomeAssignment.pdf
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local runtime data
+data/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
